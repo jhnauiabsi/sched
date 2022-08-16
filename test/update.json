@@ -1,0 +1,12 @@
+{
+    "messageId": "22eb781d-0ef9-4165-b709-85470c35407f"
+    ,"schedule" : "2022-06-23T08:30:00"
+    ,"filter": {
+        "client_id": ["2001"]
+    },
+    "message": {
+        "message": "Sample Notification #21",
+        "notification_type": "TRANSACTIONAL NOTIFICATION",
+        "image_url": ""
+    }
+}

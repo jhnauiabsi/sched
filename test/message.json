@@ -1,0 +1,11 @@
+{
+    "schedule" : "2022-06-26T10:08:00"
+    ,"filter": {
+        "client_id": ["200"]
+    },
+    "message": {
+        "message": "Sample Notification #23",
+        "notification_type": "TRANSACTIONAL NOTIFICATION",
+        "image_url": ""
+    }
+}
